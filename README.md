@@ -1,2 +1,2 @@
-# Bounce-off-Algorithm
-an algorithm to detect bounce off between any two objects
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
